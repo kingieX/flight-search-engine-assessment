@@ -1,6 +1,6 @@
 # Flight Search Engine
 
-Live Demo: [Your Vercel URL]
+Live Demo: [Live link](https://flight-search-assessment.vercel.app/)
 
 ## Features
 
@@ -29,4 +29,6 @@ Live Demo: [Your Vercel URL]
 
 ## Deployment
 
-Deployed on Vercel: [URL]
+Deployed on Vercel: [Live link](https://flight-search-assessment.vercel.app/)
+
+walk though: [Loom video](https://www.loom.com/share/5423db44b4d242b0b573589e25ed7ac5)
