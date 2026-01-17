@@ -141,7 +141,7 @@ export default function PriceGraph() {
             animationDuration={800}
             animationBegin={0}
           >
-            {priceData.map((entry, index) => (
+            {priceData.map((_entry, index) => (
               <Cell
                 key={`cell-${index}`}
                 fill={`url(#gradient${index % colors.length})`}
